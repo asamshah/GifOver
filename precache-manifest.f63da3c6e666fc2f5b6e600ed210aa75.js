@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5de6ca3aec529eb45e1757ed2a4f4df1",
+    "revision": "855ad579dc596538abe2af6c8826a63c",
     "url": "/gifover/index.html"
   },
   {
-    "revision": "82413ce83e1548fcecdf",
-    "url": "/gifover/static/css/main.a674093b.chunk.css"
+    "revision": "77403bba8f5a52da47cb",
+    "url": "/gifover/static/css/main.5b5e225f.chunk.css"
   },
   {
     "revision": "743bb07d523f3636debd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gifover/static/js/2.3298eb6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82413ce83e1548fcecdf",
+    "revision": "77403bba8f5a52da47cb",
     "url": "/gifover/static/js/main.0ed58606.chunk.js"
   },
   {
