@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gifover/static/css/main.5b5e225f.chunk.css",
+    "main.css": "/gifover/static/css/main.a674093b.chunk.css",
     "main.js": "/gifover/static/js/main.0ed58606.chunk.js",
     "main.js.map": "/gifover/static/js/main.0ed58606.chunk.js.map",
     "runtime-main.js": "/gifover/static/js/runtime-main.d745c87b.js",
@@ -8,9 +8,9 @@
     "static/js/2.3298eb6b.chunk.js": "/gifover/static/js/2.3298eb6b.chunk.js",
     "static/js/2.3298eb6b.chunk.js.map": "/gifover/static/js/2.3298eb6b.chunk.js.map",
     "index.html": "/gifover/index.html",
-    "precache-manifest.f63da3c6e666fc2f5b6e600ed210aa75.js": "/gifover/precache-manifest.f63da3c6e666fc2f5b6e600ed210aa75.js",
+    "precache-manifest.3f57ad11ae2f2e3c374cefcdd1453826.js": "/gifover/precache-manifest.3f57ad11ae2f2e3c374cefcdd1453826.js",
     "service-worker.js": "/gifover/service-worker.js",
-    "static/css/main.5b5e225f.chunk.css.map": "/gifover/static/css/main.5b5e225f.chunk.css.map",
+    "static/css/main.a674093b.chunk.css.map": "/gifover/static/css/main.a674093b.chunk.css.map",
     "static/js/2.3298eb6b.chunk.js.LICENSE.txt": "/gifover/static/js/2.3298eb6b.chunk.js.LICENSE.txt",
     "static/media/close-icon.svg": "/gifover/static/media/close-icon.5b9a3ae1.svg",
     "static/media/loader.svg": "/gifover/static/media/loader.be00fc4a.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.d745c87b.js",
     "static/js/2.3298eb6b.chunk.js",
-    "static/css/main.5b5e225f.chunk.css",
+    "static/css/main.a674093b.chunk.css",
     "static/js/main.0ed58606.chunk.js"
   ]
 }
